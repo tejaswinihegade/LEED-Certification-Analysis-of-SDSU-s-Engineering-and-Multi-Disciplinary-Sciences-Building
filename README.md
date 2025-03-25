@@ -1,4 +1,4 @@
-# LEED-Certification-Analysis-of-SDSU-s-Engineering-and-Multi-Disciplinary-Sciences-Building
+# LEED-Certification-Analysis-of-SDSU-Engineering-and-Multi-Disciplinary-Sciences-Building
 
 ## Introduction
 As part of my work in sustainable building practices, I conducted a LEED certification analysis for the Engineering and Multi-Disciplinary Sciences Building at San Diego State University (SDSU). This assessment involved a detailed review of the building’s sustainability features, compliance with LEED v4 requirements, and the scoring methodology used to evaluate its certification level.
