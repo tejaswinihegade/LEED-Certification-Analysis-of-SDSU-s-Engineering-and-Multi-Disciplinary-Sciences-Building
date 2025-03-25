@@ -82,4 +82,4 @@ This project serves as a demonstration of my ability to conduct detailed sustain
 **Tejaswini Hegade**
 
 ---
-### 📌 *For more insights into sustainable building practices and LEED certification methodologies, feel free to connect with me!*
+### 📌 *For more insights into sustainable building practices and LEED certification methodologies, feel free to use attached pdf file!*
